@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋. I am Pablo
+
+I am a recent graduate from the Master of Computational Analysis and Public Policy (MSCAPP) of the University of Chicago. I am an economist and have experience in data science, econometrics, 
 
 <!--
 **pablomonhel/pablomonhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
