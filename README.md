@@ -1,4 +1,6 @@
-## Hi there 👋. I am Pablo
+## Hi there 👋. I am Pablo!
+
+I am an economist and data scientist, and recent graduate of the Master of Science in Computational Analysis and Public policy of the University of Chicago. I am interested in economics, public policy, data science, and generative AI. 
 
 My repositories (UPDATE IN PROGRESS):
 - https://github.com/pablomonhel/Silly-Gen-AI-Chatbot
